@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://te.legra.ph/file/4a965d62670bf1c228639.jpg" alt="StringGen">
+  <img src="https://iili.io/J6FRlf4.md.jpg" alt="StringGen">
 
  
 ### 🤤 ғᴇᴀᴛᴜʀᴇs
@@ -17,7 +17,7 @@
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/VIP_STRING_ROBOT)
+  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/Generate_Session_Bot)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
