@@ -1,7 +1,7 @@
 {
-  "name": "🧿𝐕𝐈𝐏 𝐒𝐓𝐑𝐈𝐍𝐆 𝐁𝐎𝐓🧿",
+  "name": "🔥𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙚 𝙎𝙚𝙨𝙨𝙞𝙤𝙣 𝘽𝙤𝙩🔥",
   "description": "A Telegram Bot to generate Telethon and Pyrogram String Sessions.",
-  "logo": "https://te.legra.ph/file/4a965d62670bf1c228639.jpg",
+  "logo": "https://iili.io/J6FRlf4.md.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -10,27 +10,27 @@
   ],
     "env": {
         "BOT_TOKEN": {
-            "description": "Get this value from @BotFather",
+            "description": "6798222443:AAH7RfDy9QTRJCOBR-IlEXWZ6_PvTgCJATs",
             "required": true
         },  
         "MUST_JOIN": {
-            "description": "Username of a group or channel for which you want to set force sub.(without @)",
+            "description": "official_satyam01",
             "required": true      
         }, 
         "MONGO_URL": {
-            "description": "mongo db url here",
+            "description": "mongodb+srv://sumit333:sumit333@cluster0.emqf08v.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
             "required": true
         },
         "API_ID": {
-            "description": "telegram api id here",
+            "description": "21513517",
             "required": true
         },
         "OWNER_ID": {
-            "description": "Telegram id of the person who will known as owner of the bot.",
+            "description": "5904348755",
             "required": true
         }, 
         "API_HASH": {
-            "description": "telegram api hash here",
+            "description": "838d3451485b95722878921877f12066",
             "required": true
         }
     },
