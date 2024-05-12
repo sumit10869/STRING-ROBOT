@@ -12,7 +12,7 @@ async def start(bot: Client, msg: Message):
     me2 = (await bot.get_me()).mention
     await bot.send_message(
         chat_id=msg.chat.id,
-        text=f"""𝐇𝐞𝐲 {msg.from_user.mention}🍷,
+        text=f"""𝐇𝐞𝐲🍷,
 
 𝐈 𝐀𝐦 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙚 𝙎𝙚𝙨𝙨𝙞𝙤𝙣 𝘽𝙤𝙩,
 𝐓𝐑𝐔𝐒𝐓𝐄𝐃 𝐒𝐓𝐑𝐈𝐍𝐆 𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐎𝐑 𝐁𝐎𝐓.
